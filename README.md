@@ -1,4 +1,4 @@
-# Brief de NutriForo - La Comunidad de Nutrición en Español
+# Brief de NutriForo - La Comunidad de Nutrición Basada en Ciencia y Evidencia
 
 ## Introducción
 
@@ -9,7 +9,7 @@ Si bien existen grupos de Facebook, canales de YouTube y blogs de nutrición, es
 - YouTube y TikTok → Dependen de creadores individuales y no fomentan la colaboración.
 - Blogs de nutrición → No permiten interacción ni resolución de dudas en comunidad.
 
-NutriForo nace como un espacio donde nutricionistas, estudiantes, profesionales de la salud y entusiastas puedan aprender, debatir y compartir conocimientos sobre nutrición basada en ciencia y datos, alejándose de la desinformación y los mitos populares. En NutriForo, el conocimiento es generado y validado colectivamente, en lugar de depender de figuras individuales.
+NutriForo nace como un espacio donde nutricionistas, estudiantes, profesionales de la salud y entusiastas puedan aprender, debatir y compartir conocimientos sobre nutrición basada en ciencia y evidencia, alejándose de la desinformación y los mitos populares. En NutriForo, el conocimiento es generado y validado colectivamente, en lugar de depender de figuras individuales.
 
 ## Objetivos del Proyecto
 
