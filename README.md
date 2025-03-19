@@ -1,4 +1,4 @@
-# Brief de NutriForo - La Comunidad de Nutrición Basada en Ciencia y Datos
+# Brief de NutriForo - La Comunidad de Nutrición en Español
 
 ## Introducción
 
